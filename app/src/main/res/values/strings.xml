@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Штаны Пифагора</string>
+    <string name="title">Вычислить "C" </string>
+    <string name="result_info">Результат:&#160;</string>
+    <string name="input_a">Введите значение \"а\"</string>
+    <string name="input_b">Введите значение \"b\"</string>
+    <string name="result">Результат</string>
+    <string name="error1">Поле должно быть заполнено</string>
+</resources>
